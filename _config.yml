@@ -1,1 +1,19 @@
+#Site settings
 name: Jekyll-html5up-fractal
+email: youremailaddress@gmail.com
+description: Just a simple, single page responsive template brought to you by HTML5 UP.
+baseurl: "/jekyll-html5up-fractal" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+download_button_url: ""
+
+#Social settings
+facebook_url:
+github_url:
+googleplus_url: 
+instagram_url:
+linkedin_url: 
+twitter_url: 
+mail_url:
+
+#Build settings
+markdown: kramdown
