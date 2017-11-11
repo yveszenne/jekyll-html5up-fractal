@@ -51,6 +51,3 @@ title: Home
 		</section>
 	</div>
 </section>
-
-
-
