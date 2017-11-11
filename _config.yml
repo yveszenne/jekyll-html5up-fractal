@@ -3,7 +3,7 @@ name: Jekyll-html5up-fractal
 email: youremailaddress@gmail.com
 description: Just a simple, single page responsive template brought to you by HTML5 UP.
 baseurl: "/jekyll-html5up-fractal" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://github.com/yvesespinosa" # the base hostname & protocol for your site
 download_button_url: ""
 
 #Social settings
