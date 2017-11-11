@@ -49,7 +49,7 @@ Drop me a line anytime [website](http://yvesespinosa.com) or file a [GitHub Issu
 
 ## Like It?
 
-Fork or Star [this](https://yvesespinosa.github.io/fractal-jekyll-theme/).
+Fork or Star [this](https://github.com/yvesespinosa/jekyll-html5up-fractal)
 
 ## Author
 
