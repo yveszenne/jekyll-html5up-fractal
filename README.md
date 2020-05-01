@@ -2,7 +2,7 @@
 
 ![Fractal Theme](assets/images/fractal.jpg "Fractal Theme")
 
-See the [demo here](https://yvesespinosa.github.io/jekyll-html5up-fractal/).
+See the [demo here](https://yveszenne.github.io/jekyll-html5up-fractal/).
 
 ## What is it?
 
@@ -11,7 +11,7 @@ A template for personal website portfolio that is simple yet elegant. It is also
 ## Setup
 
 1. Install Jekyll (use the command `sudo gem install jekyll`)
-3. Clone and fork [Jekyll-fractal Template](https://github.com/yvesespinosa/jekyll-html5up-fractal)
+3. Clone and fork [Jekyll-fractal Template](https://github.com/yveszenne/jekyll-html5up-fractal)
 4. Edit `_config.yml` to personalize your site
 
 ## Settings
@@ -45,11 +45,11 @@ markdown: kramdown
 
 ## Questions?
 
-Drop me a line anytime [website](http://yvesespinosa.com) or file a [GitHub Issue](https://github.com/yvesespinosa/jekyll-html5up-fractal/issues/new).
+Drop me a line anytime [website](#) or file a [GitHub Issue](https://github.com/yveszenne/jekyll-html5up-fractal/issues/new).
 
 ## Like It?
 
-Fork or Star [this](https://github.com/yvesespinosa/jekyll-html5up-fractal)
+Fork or Star [this](https://github.com/yveszenne/jekyll-html5up-fractal)
 
 ## Author
 
